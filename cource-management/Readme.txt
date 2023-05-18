@@ -1,0 +1,1 @@
+Cource Management is used to manage Cource
